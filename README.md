@@ -1,4 +1,5 @@
 # Toy PID Control Law Simulation
 
 A basic PID controller simulation for tuning purposes.
-<img width="1080" height="672" alt="image" src="https://github.com/user-attachments/assets/d295a759-770f-4024-8035-a98de87fbe09" />
+
+<img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/c1dd1fd5-d9c2-490f-b34e-e7a1de20fc48" />
